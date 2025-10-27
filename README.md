@@ -14,3 +14,8 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
+
+
+Réponse exo 6:
+
+git reset efface des commits en réécrivant l'historique (pour les modif non push), alors que git revert annule les modifications en créant un nouveau commit pour l'annuler (pour les modif deja push.).
